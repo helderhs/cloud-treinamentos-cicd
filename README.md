@@ -1,3 +1,1 @@
-Apagar este frase e escrever outra aqui
-
-Esse arquivo é de instruções 
+CURSO CLOUD TREINAMENTOS TREINAMENTO CI-CD
